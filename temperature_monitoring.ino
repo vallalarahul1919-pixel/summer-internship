@@ -8,7 +8,6 @@
 
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
-// Change this pin based on your board
 #define DHTPIN 4      
 #define DHTTYPE DHT22 
 
